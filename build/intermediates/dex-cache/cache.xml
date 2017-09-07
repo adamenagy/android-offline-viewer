@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adamnagy/Adam/GitHub/adamenagy/android-offline-viewer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adamnagy/Adam/GitHub/adamenagy/android-offline-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ee29ded0f267adf53b166aab76a3273e2fab9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adamnagy/Adam/GitHub/adamenagy/android-offline-viewer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="74cd8c59458e0e58c6448cc5d46de08378cfeb4d">
+        <dex dex="/Users/adamnagy/Adam/GitHub/adamenagy/android-offline-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c14581d94ed9e7f824b60d166839b121a0f80a95/classes.dex" />
+    </item>
+
+</items>
